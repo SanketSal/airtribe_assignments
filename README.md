@@ -22,16 +22,11 @@ To run this project, you need to have the following software installed on your m
 1. Clone the repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone https://github.com/SanketSal/airtribe_assignments.git
 ```
 
-2. Navigate to the project directory:
 
-```
-cd task-manager-api
-```
-
-3. Install the dependencies:
+2. Install the dependencies:
 
 ```
 npm install
