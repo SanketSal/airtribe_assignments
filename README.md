@@ -1,4 +1,3 @@
-Certainly! Here's a detailed README for the above code:
 
 ---
 
