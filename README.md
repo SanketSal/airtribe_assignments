@@ -211,10 +211,3 @@ Response Body:
 ]
 ```
 
-### Error Handling
-
-- If an invalid request is made (e.g., missing required attributes, invalid priority level), the API will respond with an appropriate error status code (e.g., 400 Bad Request) and an error message in the response body.
-
----
-
-That's it! You now have a Task Manager API with support for filtering tasks based on priority level and sorting them by creation date. Feel free to customize and extend the code to suit your specific needs. Happy coding!
